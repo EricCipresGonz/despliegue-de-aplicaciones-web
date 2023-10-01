@@ -3,7 +3,7 @@
 cómo se obtiene el token. Para ello, necesitamos saber de dónde salen TODOS los
 datos sensibles que se envían.
 
-![tempsnip](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/d1501db1-b009-4db1-82fc-8c741048208b)
+![Foto daw](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/13c41654-64c0-41b7-b74d-3875c0caf3e9)
 
 · Lo que hay que hacer es una vez dentro de la zona de iniciar sesion del moodle es hacer click derecho en la pagina y darle a inspecionar, una vez dentro le damos a Network le damos a index.php y vamos al apartado de Payload y tendremos el resultado
 
