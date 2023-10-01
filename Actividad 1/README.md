@@ -23,3 +23,5 @@ Location: http://www.example.com/test/index2.php
 6. Utilizando el filtro de captura para la interfaz de red de Wireshark, analiza la petición
 al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu ordenador y
 la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Google
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/a69ee329-5cce-4dc6-a78d-31538ef90d4b)
