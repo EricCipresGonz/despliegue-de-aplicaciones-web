@@ -26,6 +26,5 @@ la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Googl
 
 ![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/a69ee329-5cce-4dc6-a78d-31538ef90d4b)
 
-
 Link Github:
 https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/tree/main/Actividad%201
