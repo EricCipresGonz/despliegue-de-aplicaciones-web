@@ -18,3 +18,4 @@ simbólicos necesarios para añadir esta configuración a la ejecución de apach
 
 
 Primero vamos a crear los siguientes directorios
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/2cf12ed1-b430-4826-a9e2-2a589008d35d)
