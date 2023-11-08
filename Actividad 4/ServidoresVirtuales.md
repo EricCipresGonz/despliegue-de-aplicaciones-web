@@ -61,7 +61,15 @@ Ahora hacemos lo siguiente:
 
 
 
-Una vez hecho eso ejecutamos el siguiente comando
+Una vez hecho eso ejecutamos los siguientes comandos
 
 
-![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/39af1e34-a6a2-45ac-bb12-5480f87db92b)
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/b5dc73fc-3a01-4bcb-84df-96640edc6f4e)
+
+
+Y al buscar en la barra de navegacion podremos ver el resultado final:
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/a81d88e2-6710-444d-bba5-c03d86d7b346)
+
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/7498afd3-f390-4656-9474-8e04126b645a)
