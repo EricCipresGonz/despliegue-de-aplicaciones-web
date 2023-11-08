@@ -49,6 +49,18 @@ Y ahora vamos a /etc/hosts y ponemos lo siguiente:
 
 ![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/f59b106b-526d-404d-9164-d8852b45327f)
 
+Ahora hacemos lo siguiente:
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/dbc95607-98e4-45e4-9255-def5076862af)
+
+
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/c7d4765c-705f-4dbf-8e6c-29e7e808dd19)
+
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/afdb935f-89e3-4cff-93fc-f666b8ecbe26)
+
+
+
 Una vez hecho eso ejecutamos el siguiente comando
 
 
