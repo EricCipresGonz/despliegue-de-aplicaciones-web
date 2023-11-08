@@ -18,4 +18,38 @@ simbólicos necesarios para añadir esta configuración a la ejecución de apach
 
 
 Primero vamos a crear los siguientes directorios
+
+
 ![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/2cf12ed1-b430-4826-a9e2-2a589008d35d)
+
+
+
+Ahora dentro de el directorio de daw creamos un archivo html y uno css:
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/0ba16f6a-b9c4-4660-8f50-9b1dff34ddb2)
+
+
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/80bc5fb0-5750-4d36-a2e4-ffda2ad29691)
+
+
+
+
+Y volvemos ha hacer lo mismo pero en el directorio de ecipresg pero el html sera el curriculum;
+
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/7ae70021-aebc-4a4d-826f-3191968e34c0)
+
+
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/5986b109-3688-4fed-a3a6-2a55a394aa32)
+
+Y ahora vamos a /etc/hosts y ponemos lo siguiente:
+
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/f59b106b-526d-404d-9164-d8852b45327f)
+
+Una vez hecho eso ejecutamos el siguiente comando
+
+
+![image](https://github.com/EricCipresGonz/despliegue-de-aplicaciones-web/assets/144775307/39af1e34-a6a2-45ac-bb12-5480f87db92b)
